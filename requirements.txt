@@ -1,0 +1,16 @@
+matplotlib==3.7.1
+networkx==2.8.4
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.0
+tensorboard==2.12.0
+torch-cluster==1.6.1+pt20cu117
+torch-geometric==2.1.0
+torch-scatter==2.1.1+pt20cu117
+torch-sparse==0.6.17+pt20cu117
+torch-spline-conv==1.2.2+pt20cu117
+torch==2.0.0
+torchaudio==2.0.0
+torchmetrics==0.10.3
+torchvision==0.15.0
+tqdm==4.65.0
